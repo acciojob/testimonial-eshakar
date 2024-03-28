@@ -1,9 +1,10 @@
 /*  your CSS code here. If applicable */
 main{
-	padding: 2px; 
+	padding: 50px; 
 	background-color: #f5f5f5;
+	font-weight: bold;
 }
-div{
+.division{
 	margin: 15px;
 	padding: 2px;
 	border: 1px solid lightgray;
@@ -14,8 +15,8 @@ div{
 	font-style: italic;
 }
 p{
-	margin: 7px;
-	padding: 5px;
+	margin: 10px;
+	padding: 0px;
 }
 h1{
 	margin: 7px;
